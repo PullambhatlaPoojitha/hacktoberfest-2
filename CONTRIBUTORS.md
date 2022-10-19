@@ -1,3 +1,8 @@
+#### Name: poojitha pullambhatla
+ - Place: Bhimavaram, Andhra Pradesh
+ - Bio: Third year IT student
+ - GitHub: [PullambhatlaPoojitha](https://github.com/PullambhatlaPoojitha)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
